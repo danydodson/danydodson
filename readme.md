@@ -1,7 +1,7 @@
 <!-- ## Hi there 👋 -->
 
 <h1 align="center">
-  <img src="https://ik.imagekit.io/vdyy86fmjx/github_images/yoda_9CJiDeRne.gif" />
+  <img width="100%" height="100%" src="https://ik.imagekit.io/vdyy86fmjx/github_images/yoda_9CJiDeRne.gif" />
 </h1>
 
 <!--
