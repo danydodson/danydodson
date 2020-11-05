@@ -1,4 +1,4 @@
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/danydodson/danydodson/main/images/wave.gif" width="30px">
 
-![Dany's stats](https://github-readme-stats.vercel.app/api?username=danydodson&show_icons=true&hide_title=true)
+<!-- ![Dany's stats](https://github-readme-stats.vercel.app/api?username=danydodson&show_icons=true&hide_title=true) -->
