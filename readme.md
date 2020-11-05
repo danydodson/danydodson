@@ -1,43 +1,48 @@
-<!-- ## Hi there 👋 -->
 
-##
+## Hi there 👋
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+[![Header](https://raw.githubusercontent.com/danydodson/<danydodson>/<danydodson>/readme_header.png "Header")](https://some-url.dev/)
+
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+
 
 <h1 align="center">
   <img width="80%" height="100%" src="https://ik.imagekit.io/vdyy86fmjx/github_images/yoda_9CJiDeRne.gif" />
 </h1>
 
-<!--
 **danydodson/danydodson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
-<!-- I'm Dany, a 34-year-old Full-Stack Developer from the Mid-West United States.   -->
+I'm Dany, a 34-year-old Full-Stack Developer from the Mid-West United States.  
 
-<!-- I'm a React nanodegree graduate, and an IDF certified UX Designer. Free time is hard to come by, but when it does, I freelance and craft web apps for a living.   -->
+I'm a React nanodegree graduate, and an IDF certified UX Designer. Free time is hard to come by, but when it does, I freelance and craft web apps for a living.  
 
-<!-- #### Background  -->
+#### Background 
 
-<!-- I studied computer science and engineering at RNS Institute of Technology, Bangalore. During my time at RNSIT, I volunteered as a graphic designer with a small team that helped me jumpstart and hone my skills as a digital designer.   -->
+I studied computer science and engineering at RNS Institute of Technology, Bangalore. During my time at RNSIT, I volunteered as a graphic designer with a small team that helped me jumpstart and hone my skills as a digital designer.  
 
-<!-- Aside from design, I also build web apps using technologies like React, Node and many more tools. I'm currently working at [Betsol](https://betsol.com) as a Web Architect on a product called Leto. I'm involved in the design (both UI/UX and architecture) and development of the product using React, Redux, Node and Postgres. -->
+Aside from design, I also build web apps using technologies like React, Node and many more tools. I'm currently working at [Betsol](https://betsol.com) as a Web Architect on a product called Leto. I'm involved in the design (both UI/UX and architecture) and development of the product using React, Redux, Node and Postgres.
 
-<!-- #### Skills -->
+#### Skills
 
-<!-- - Design
-  - UI, UX, Wireframing, Prototyping, Web design -->
-<!-- - Development -->
-  <!-- - JavaScript, Reactjs, Redux, Express, Nodejs, TypeScript, Nextjs, GraphQL, PostgreSQL -->
+- Design
+  - UI, UX, Wireframing, Prototyping, Web design
+- Development
+  - JavaScript, Reactjs, Redux, Express, Nodejs, TypeScript, Nextjs, GraphQL, PostgreSQL
   
-<!-- #### What I'm upto these days... -->
+#### What I'm upto these days...
 
-<!-- - 🔭 I’m currently working on my [new website](https://v4.adithyabhat.com/about) (got bored of my [old website](https://adithyabhat.com) :/) -->
-<!-- - 🌱 I’m currently learning [Rust](https://rust-lang.org) -->
-<!-- - 💻 My recent projects: [Homero](https://heyhomero.com), [Trayah Pottery](https://trayahpottery.com) -->
-<!-- - 🎨 My designs: [Dribbble](https://dribbble.com/adithyanr), [Behance](https://behance.net/adithyabhat) -->
-<!-- - 📑 My Blog: https://v4.adithyabhat.com/blog -->
-<!-- - 📫 How to reach me: [website](https://v4.adithyabhat.com/contact), [twitter](https://twitter.com/adithya__nr), [LinkedIn](https://linkedin.com/in/adithya-nr) -->
+- 🔭 I’m currently working on my [new website](https://v4.adithyabhat.com/about) (got bored of my [old website](https://adithyabhat.com) :/)
+- 🌱 I’m currently learning [Rust](https://rust-lang.org)
+- 💻 My recent projects: [Homero](https://heyhomero.com), [Trayah Pottery](https://trayahpottery.com)
+- 🎨 My designs: [Dribbble](https://dribbble.com/adithyanr), [Behance](https://behance.net/adithyabhat)
+- 📑 My Blog: https://v4.adithyabhat.com/blog
+- 📫 How to reach me: [website](https://v4.adithyabhat.com/contact), [twitter](https://twitter.com/adithya__nr), [LinkedIn](https://linkedin.com/in/adithya-nr)
 
-
-<!-- ### Programming Languages 🌐
+### Programming Languages 🌐
 
 - Know/Using
 
@@ -46,7 +51,7 @@
 
 - Learning
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24">](https://www.rust-lang.org/)|
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24">](https://www.rust-lang.org/)  |
 |---|---|---|
 
 ### Tools 🛠️
@@ -66,6 +71,6 @@
 You can find and get touch with me on these accounts!
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Delta456) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/delta231_/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/delta456)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/deviant_art.jpg" alt="dev logo" width="24">](https://www.deviantart.com/delta2318) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/Delta2315) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/10053063/delta231) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Delta456) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/reddit.jpg" alt="reddit logo" width="24">](https://www.reddit.com/user/Delta231)
-|---|---|---|---|---|---|---|---| -->
+|---|---|---|---|---|---|---|---|
 
-<!-- ![Dany's stats](https://github-readme-stats.vercel.app/api?username=danydodson&show_icons=true&hide_title=true) -->
+![Dany's stats](https://github-readme-stats.vercel.app/api?username=danydodson&show_icons=true&hide_title=true)
