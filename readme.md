@@ -5,6 +5,18 @@
 
 [![Header](https://raw.githubusercontent.com/danydodson/<danydodson>/<danydodson>/readme_header.png "Header")](https://some-url.dev/)
 
+
+
+<img src="https://i.ibb.co/822PZB2/wave.gif" alt="wave" border="0">
+
+<a href="https://ibb.co/xGGzTsG">
+  <img src="https://i.ibb.co/822PZB2/wave.gif" alt="wave" border="0">
+</a>
+
+
+
+<img src="https://raw.githubusercontent.com/danydodson/danydodson/main/images/moji_workin.png" width="">
+
 <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 
 <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
