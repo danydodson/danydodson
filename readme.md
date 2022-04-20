@@ -1,5 +1,25 @@
+<a href="https://github.com/jessfraz">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+<br/>
+<a href="https://github.com/jessfraz">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/jessfraz">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/danydodson/danydodson/main/images/wave.gif" width="30px">
+<a href="https://github.com/jessfraz">
+  <img align="center" width="49%" src="./iso_calender.svg" />
+</a>
 
-<!-- ![Dany's stats](https://github-readme-stats.vercel.app/api?username=danydodson&show_icons=true&hide_title=true) -->
+<a href="https://github.com/jessfraz">
+    <img align="center" width="49%" src="./issue_pr_lang.svg" />
+</a>
 
+<a href="https://github.com/jessfraz">
+  <img align="center" width="49%" src="./github-habits.svg" />
+</a>
+<a href="https://github.com/jessfraz">
+    <img align="center" width="49%" src="./achievements.svg" />
+</a>
