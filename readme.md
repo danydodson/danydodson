@@ -1,16 +1,13 @@
-<h1 align="center">✨Hello There! I'm Dany Dodson✨</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Always+learning+new+things!;Full-Stack+Developer" alt="Typing SVG" /></a>
+<p align="left">
+  <h3>I’m currently:</h3>  
 </p>
+
+- 🌱 Learning **Rust** && **Go** && **IoT**
+- 🔭 Working as a **Web developer**
+
 <br>
-<p align="center">
-  <a href="https://discord.com/users/405546193352130570">
-    <img src="https://lanyard.cnrad.dev/api/405546193352130570?borderRadius=6px&bg=20222E&hideTimestamp=true&idleMessage=Probably%20doing%20something%20else...&showDisplayName=false&hideProfile=false" />
-  </a>
-</p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect:</h3>
 <!-- Social icons section -->
 <p align="center">
   <a href="https://linkedin.com/in/danydodson" target="blank"><img align="center" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px"/></a>
@@ -29,19 +26,10 @@
 </p>
 <br/>
 
-<img align="right" src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" />
-<p align="left">
-  <h3>I’m currently working on ...</h3>  
-</p>
-
-- 🔭 I’m currently working as a **Fullstack web developer**
-- 🌱 I’m currently learning **Swift** & **IoT**
-
-<!-- <a href="https://www.codewars.com/users/eyegor">
-  <img src="https://www.codewars.com/users/eyegor/badges/large" height="50" width="425"/>
-</a> -->
+<!-- <img align="right" src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> -->
 
 <br/>
+
 <h3 align="left">Tech Stack:</h3>  
 <p align="center">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
@@ -63,21 +51,22 @@
 </p>
 
 <br/>
-<h3 align="left">Interests:</h3>  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/devices/raspberrypi.svg" alt="raspberrypi" style="vertical-align:top; margin:4px">
-</p>
 
-<br/>
-
-<h3 align="left">Github Stats:</h3> 
+<h3 align="left">GitHub Stats:</h3> 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=danydodson&show_icons=true&include_all_commits=true&count_private=true&theme=city_lights&hide_border=true&bg_color=1F222E&title_color=36BCF7FF&icon_color=f8D866" height="192px"/></a>
+</p>
+
+<h3 align="left">GitHub Languages:</h3> 
+<p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=danydodson&langs_count=6&layout=compact&theme=city_lights&hide_border=true&bg_color=1F222E&title_color=36BCF7FF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 </p>
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" />
+<br>
+
+<h3 align="left">Discord:</h3> 
+<p align="center">
+  <a href="https://discord.com/users/1199188227819585569">
+    <img src="https://lanyard.cnrad.dev/api/1199188227819585569?borderRadius=6px&bg=20222E&hideTimestamp=true&idleMessage=Probably%20doing%20something%20else...&showDisplayName=false&hideProfile=false" />
+  </a>
 </p>
